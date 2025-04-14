@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mohamed Elsayed Ali
 
 🎓 Computer and Data Science Student  
-💻 Backend Developer | 📚 Instructor at PES  
+💻 Backend Developer
 🔧 Passionate about building scalable backend systems and helping others learn tech  
 
 ---
@@ -25,12 +25,12 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
+-->
 ---
 
 ## 🌱 Currently Learning
