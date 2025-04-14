@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mohamed Elsayed Ali
 
-🎓 Computer and Data Science Student | 💻 Backend Developer | 📚 Instructor at PES
+🎓 Computer and Data Science Student | 💻 Backend Developer
 
 ## 🚀 Technologies & Tools
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -10,12 +10,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet)
 
-## 📊 GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🌱 I’m currently learning
 - Linux 🐧
-- JWT Auth & Access/Refresh tokens
 - Advanced Express.js Structure
 
 ## 📫 Contact Me
