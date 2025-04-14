@@ -41,7 +41,7 @@
 - ASP.NET Core Backend Development
 
 ---
-
+<!--
 ## 📌 Highlight Projects
 
 - 🚗 **Car Price Prediction** – ML project to predict car prices based on Kaggle dataset  
@@ -50,7 +50,7 @@
 - 🧠 **Course Center System** – Platform to manage courses and student enrollments  
 - 🏋️ **Gym Management System** – CRUD web app for gym members and subscriptions  
 - 📚 **E-Learning Platform** – Under development, modern learning management system  
-
+-->
 ---
 
 ## 📫 How to Reach Me
